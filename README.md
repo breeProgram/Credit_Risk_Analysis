@@ -5,7 +5,6 @@ This analysis is to use data preparation, statistical reasoning, and machine lea
 
 ###Random Over Sampler
 ![Random Over Sampler](https://user-images.githubusercontent.com/56700719/164787557-34a7b03c-af55-4801-b838-dc56fdde9e1c.JPG)
-•	Balanced Accuracy Score: 0.6249984891886339
-•	Precision(avg/total): 0.99
-
-•	Recall(avg/total): 0.65
+- Balanced Accuracy Score: 0.6249984891886339
+- Precision(avg/total): 0.99
+- Recall(avg/total): 0.65
